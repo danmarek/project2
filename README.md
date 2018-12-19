@@ -17,7 +17,7 @@ Install [Virtual Box from here](https://www.virtualbox.org/wiki/Downloads), the 
 Download and install the correct vagrant version for your operating system from [vagrantup](https://www.vagrantup.com/downloads.html)
 ### Download Vagrant VM Configuration
 Within GitHub fork and clone the [fullstack repository]:(https://github.com/udacity/fullstack-nanodegree-vm)
-## Starting VM
+### Starting VM
 run the commands to start vm
 ```sh
 cd vagrant
